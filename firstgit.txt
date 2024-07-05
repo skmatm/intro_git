@@ -3,3 +3,4 @@ git add
 remove
 status
 git diff
+gitdesu
